@@ -15,8 +15,8 @@ Estudante de Desenvolvimento de Sistemas e programador em Java e tecnologias bac
 
 ## Ferramentas que uso no dia a dia
 
-- **Linguagens**: Java (principal), Python, HTML, CSS e JavaScript
-- **Frameworks**: Spring Boot, JUnit
+- **Linguagens**: Java (principal), Python
+- **Frameworks**: Spring Boot, Android SDK
 - **Banco de dados**: MySQL, PostgreSQL
 - **Outros**: Git, GitHub, IntelliJ IDEA, VS Code
 
